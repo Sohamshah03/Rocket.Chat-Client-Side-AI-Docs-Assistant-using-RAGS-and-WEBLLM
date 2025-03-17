@@ -97,7 +97,3 @@ http://localhost:5173
 ## Contributing
 
 Feel free to contribute to the project by submitting issues or pull requests.
-
-## License
-
-This project is licensed under the MIT License.
